@@ -1,0 +1,17 @@
+{
+    "name": "tingchungk/package-bmi",
+    "description": "about bmi",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gan068",
+            "email": "bleedkaga.ogre@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
